@@ -23,4 +23,14 @@ of not entering my openid URL, which will make it harder for people to contact m
 He noted that he will look into fixing this issue but will likely fail. Fedora is developed by [Red Hat](https://en.wikipedia.org/wiki/Red_Hat)
 which used to be very profitable before it was sold to IBM for 34 milliard dollars, and
 Fedora/[RHEL](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux) are popular and tend to get the final say even
-over Ubuntu. They can afford to hire top talent, and I presume also have many contributors who volunteer
+over Ubuntu. They can afford to hire top talent, and being an open source project,
+I presume also have many enthusiastic and talented contributors who volunteer time for free,
+as is the case [for me](https://koji.fedoraproject.org/koji/userinfo?userID=shlomif) (although
+how much competent I am is not something I am qualified to evaluate; I am happy to
+[receive criticism](http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/)
+and try to improve though.).
+
+If they cannot fix a WordPress issue, how can we expect a nascent
+blogger, who just installed WordPress, and doesn't know programming well (
+and is certainly underqualified to properly read and write [PHP code](https://www.shlomifish.org/open-source/anti/php/)
+) to handle it themselves? If a fire has caught the firs, what will the moss on the wall say?
